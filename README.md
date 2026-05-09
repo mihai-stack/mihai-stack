@@ -17,7 +17,7 @@ I am a results-driven **Production Engineer** with 4+ years of experience in ent
 
 ### 💼 Professional Background
 - **FieldFLEX Mobile:** Managing end-to-end pipelines and infrastructure for global enterprise operations.
-- **Alibaba Group (Whole Cloud Technology):** Resolved complex L2/L3 incidents in high-availability telecom environments.
+- **Alibaba Group (Whale Cloud Technology):** Resolved complex L2/L3 incidents in high-availability telecom environments.
 
 ---
 
