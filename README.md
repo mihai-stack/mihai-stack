@@ -1,14 +1,14 @@
 # Hi there, I'm Mihai 👋
 
-**Production & Automation Engineer | Release Engineering | Linux & SQL Specialist
+**Production & Automation Engineer | Release Engineering | Linux & SQL Specialist:**
 
 I am a results-driven Production & Automation Engineer with 4+ years of experience in enterprise SaaS and BSS environments (ex-Alibaba Group). I specialize in stabilizing production systems and building automation that turns manual overhead into scalable code.
 
 ---
 ### 📈 High Impact Results:
-- **Efficiency: Cut deployment times by 30 minutes through pipeline and script optimization.
-- **Reliability: Reduced recurring operational incidents by ~3x via proactive monitoring and automated health checks.
-- **Scale: Managed end-to-end release lifecycles for global Fortune 500 client instances.
+- **Efficiency:** Cut deployment times by 30 minutes through pipeline and script optimization.
+- **Reliability:** Reduced recurring operational incidents by ~3x via proactive monitoring and automated health checks.
+- **Scale:** Managed end-to-end release lifecycles for global Fortune 500 client instances.
 
 ### 🛠 Technical Expertise
 - **Infrastructure & Ops:** Linux (Red Hat/CentOS), Production Troubleshooting, System Stability.
