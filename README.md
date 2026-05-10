@@ -13,7 +13,7 @@ I am a results-driven Production & Automation Engineer with 4+ years of experien
 ### 🛠 Technical Expertise
 - **Infrastructure & Ops:** Linux (Red Hat/CentOS), Production Troubleshooting, System Stability.
 - **Databases & RCA:** PostgreSQL, Oracle SQL, advanced querying, and log-based Root Cause Analysis.
-- **Automation & CI/CD:** Python, Bash scripting, Bitbucket Pipelines, Git.
+- **Automation & CI/CD:** Bash scripting, Bitbucket Pipelines, Git.
 - **Monitoring:** Health checks automation, Instana, and real-time alert triage.
 
 ### 🚀 Featured Project
