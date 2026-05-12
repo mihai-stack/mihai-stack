@@ -1,8 +1,8 @@
 # Hi there, I'm Mihai 👋
 
-**Production & Automation Engineer | Release Engineering | Linux & SQL Specialist:**
+**Production Engineer • Linux Operations • Automation • Release Engineering:**
 
-I am a results-driven Production & Automation Engineer with 4+ years of experience in enterprise SaaS and BSS environments (ex-Alibaba Group). I specialize in stabilizing production systems and building automation that turns manual overhead into scalable code.
+I am a results-driven Production Engineer with 4+ years of experience in enterprise SaaS and BSS environments, including at Whale Cloud Technology (Alibaba Group ecosystem). I specialize in stabilizing production systems and building automation that turns manual overhead into scalable code.
 
 ---
 ### 📈 High Impact Results:
