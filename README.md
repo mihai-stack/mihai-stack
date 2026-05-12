@@ -8,7 +8,7 @@ I am a results-driven Production Engineer with 4+ years of experience in enterpr
 ### 📈 High Impact Results:
 - **Efficiency:** Cut deployment times by 30 minutes through pipeline and script optimization.
 - **Reliability:** Reduced recurring operational incidents by ~3x via proactive monitoring and automated health checks.
-- **Scale:** Managed end-to-end release lifecycles for global Fortune 500 client instances.
+- **Scale:** Supported enterprise-scale deployments for Fortune 500 clients. 
 
 ### 🛠 Technical Expertise
 - **Infrastructure & Ops:** Linux (Red Hat/CentOS), Production Troubleshooting, System Stability.
@@ -21,7 +21,7 @@ I am a results-driven Production Engineer with 4+ years of experience in enterpr
 
 ### 💼 Professional Background
 - **FieldFLEX Mobile:** Managing end-to-end pipelines and infrastructure for global enterprise operations.
-- **Alibaba Group (Whale Cloud Technology):** Resolved complex L2/L3 incidents in high-availability telecom environments.
+- **Whale Cloud Technology (part of Alibaba Group ecosystem):** Resolved complex L2/L3 incidents in high-availability telecom environments.
 
 ---
 
