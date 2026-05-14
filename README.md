@@ -20,7 +20,7 @@ Technology (Alibaba Group subsidiary).
 - Monitoring: Health check automation, Instana, real-time alert triage
 
 ### 🚀 Featured Project
-- **[Instance Health Monitor](https://github.com/mihai-stack/instance-log-monitor):** A production-ready Python tool that detects silent synchronization 
+- **[Instance Health Monitor](https://github.com/mihai-stack/instance_health_monitor.py):** A production-ready Python tool that detects silent synchronization 
 failures missed by standard monitoring, built and deployed in a 
 real enterprise Linux environment.
 
