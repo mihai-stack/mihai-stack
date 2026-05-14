@@ -7,7 +7,6 @@ scalable, production-tested tooling, with 4+ years of experience
 in enterprise SaaS and BSS environments, including at Whale Cloud 
 Technology (Alibaba Group subsidiary).
 
-
 ---
 ### 📈Impact:
 - Cut deployment times by 30 minutes through pipeline and script optimization
