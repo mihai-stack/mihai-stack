@@ -4,24 +4,34 @@
 
 I am a results-driven Production Engineer with 4+ years of experience in enterprise SaaS and BSS environments, including at Whale Cloud Technology (Alibaba Group ecosystem). I specialize in stabilizing production systems and building automation that turns manual overhead into scalable code.
 
+I build automation that replaces manual operational overhead with 
+scalable, production-tested tooling, with 4+ years of experience 
+in enterprise SaaS and BSS environments, including at Whale Cloud 
+Technology (Alibaba Group subsidiary).
+
+
 ---
-### 📈 High Impact Results:
-- **Efficiency:** Cut deployment times by 30 minutes through pipeline and script optimization.
-- **Reliability:** Reduced recurring operational incidents by ~3x via proactive monitoring and automated health checks.
-- **Scale:** Supported enterprise-scale deployments for Fortune 500 clients. 
+### 📈Impact:
+- Cut deployment times by 30 minutes through pipeline and script optimization
+- Reduced recurring operational incidents by ~3x via proactive monitoring
+- Supported enterprise-scale deployments for Fortune 500 clients
 
 ### 🛠 Technical Expertise
-- **Infrastructure & Ops:** Linux (Red Hat/CentOS), Production Troubleshooting, System Stability.
-- **Databases & RCA:** PostgreSQL, Oracle SQL, advanced querying, and log-based Root Cause Analysis.
-- **Automation & CI/CD:** Bash scripting, Bitbucket Pipelines, Git.
-- **Monitoring:** Health checks automation, Instana, and real-time alert triage.
+- Infrastructure & Ops: Linux (Red Hat/CentOS), production troubleshooting, system stability
+- Databases & RCA: PostgreSQL, Oracle SQL, advanced querying, log-based root cause analysis
+- Automation & CI/CD: Bash scripting, Bitbucket Pipelines, Git
+- Monitoring: Health check automation, Instana, real-time alert triage
 
 ### 🚀 Featured Project
-- **[Instance Health Monitor](https://github.com/mihai-stack/instance-log-monitor):** A production-ready Python tool designed to automate health reporting and verify synchronization success across distributed instances.
+- **[Instance Health Monitor](https://github.com/mihai-stack/instance-log-monitor):** A production-ready Python tool that detects silent synchronization 
+failures missed by standard monitoring, built and deployed in a 
+real enterprise Linux environment.
 
 ### 💼 Professional Background
-- **FieldFLEX Mobile:** Managing end-to-end pipelines and infrastructure for global enterprise operations.
-- **Whale Cloud Technology (part of Alibaba Group ecosystem):** Resolved complex L2/L3 incidents in high-availability telecom environments.
+- FieldFLEX Mobile - end-to-end release pipelines and infrastructure 
+  for global enterprise operations
+- Whale Cloud Technology (Alibaba subsidiary) - L2/L3 incident 
+  resolution in high-availability telecom BSS environments
 
 ---
 
